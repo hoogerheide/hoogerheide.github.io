@@ -1,2 +1,2 @@
 # Programming projects:
-o [Polypeptide diffusion calculator](./ppdiffuse)
+* [Polypeptide diffusion calculator](./ppdiffuse)
