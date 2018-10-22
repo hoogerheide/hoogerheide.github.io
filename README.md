@@ -1,2 +1,2 @@
 # Programming projects:
-Coming soon!
+o [Polypeptide diffusion calculator](./ppdiffuse)
