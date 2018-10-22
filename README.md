@@ -1,2 +1,3 @@
-# Programming projects:
+# David P. Hoogerheide
+## Projects:
 * [Polypeptide diffusion calculator](./ppdiffuse)
