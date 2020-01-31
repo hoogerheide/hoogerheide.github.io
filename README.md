@@ -1,3 +1,3 @@
 # David P. Hoogerheide
 ## Projects:
-* [Polypeptide diffusion calculator](./ppdiffuse)
+* [Polypeptide diffusion calculator](../usnistgov/ppdiffuse)
